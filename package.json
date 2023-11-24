@@ -2,6 +2,9 @@
   "name": "dotenv-vault-playground",
   "module": "index.ts",
   "type": "module",
+  "scripts": {
+    "build": "bun index.ts"
+  },
   "devDependencies": {
     "bun-types": "latest"
   },
